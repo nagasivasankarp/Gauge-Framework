@@ -1,0 +1,4 @@
+getgauge
+selenium
+requests
+pytest
